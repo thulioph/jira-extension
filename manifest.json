@@ -1,0 +1,30 @@
+{
+  "manifest_version": 3,
+  "name": "Jira Extension",
+  "description": "Beautify Jira boards",
+  "version": "1.0",
+  "author": "Thulio Philipe <thulio.philipe@hellofresh.com>",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Jira Extension",
+    "default_icon": "images/icon-128.png"
+  },
+  "icons": {
+    "16": "images/icon-16.png",
+    "24": "images/icon-24.png",
+    "32": "images/icon-32.png",
+    "128": "images/icon-128.png"
+  },
+  "content_scripts": [
+    {
+      "run_at": "document_end",
+      "all_frames": true,
+      "js": ["index.js"],
+      "css": ["style.css"],
+      "matches": [
+        "https://hellofresh.atlassian.net/jira/software/c/projects/PX/boards/*"
+      ]
+    }
+  ],
+  "permissions": ["activeTab"]
+}

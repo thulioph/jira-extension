@@ -1,0 +1,17 @@
+.team-goal {
+  background-color: #f7f7f7;
+  padding: 10px;
+  margin-top: 10px !important;
+  border: 1px solid #dedede;
+}
+
+.team-goal::before {
+  content: "Sprint Goals:";
+  display: block;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.team-goals-list {
+  list-style-type: decimal;
+}
