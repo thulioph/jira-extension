@@ -16,7 +16,7 @@ This project is not available to download in any webstore, so follow these steps
 
 ## Usage
 
-If your team uses the **sprint description** section in Jira, this extension will beautify it. You need to open your board, and it will automatically change it.
+If your team uses the **sprint goal** section in Jira, this extension will beautify it. You need to open your board, and it will automatically change it.
 
 ## Contributing
 
