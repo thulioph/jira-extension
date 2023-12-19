@@ -4,8 +4,6 @@
 
 ## Features
 
-> All features will be automatically applied once you have it installed. Just open your board, and see the magic happens. 🪄
-
 1. Beautify spring goals section
 
 ## Installation
@@ -21,6 +19,8 @@ This project is not available to download in any webstore, so follow these steps
 7. Extension should be visible
 
 ## Usage
+
+All features will be automatically applied once you have it installed. Just open your board and see the magic happen. 🪄
 
 ### Beautify spring goals section
 
