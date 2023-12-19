@@ -2,6 +2,12 @@
 
 > This is a browser extension to beautify Jira boards.
 
+## Features
+
+> All features will be automatically applied once you have it installed. Just open your board, and see the magic happens. 🪄
+
+1. Beautify spring goals section
+
 ## Installation
 
 This project is not available to download in any webstore, so follow these steps:
@@ -16,7 +22,15 @@ This project is not available to download in any webstore, so follow these steps
 
 ## Usage
 
-If your team uses the **sprint goal** section in Jira, this extension will beautify it. You need to open your board, and it will automatically change it.
+### Beautify spring goals section
+
+If your team uses the **sprint goal** section in Jira (_image below_), this extension will beautify it.
+
+<img src="image.png" alt="Jira spring goal section" width="400"/>
+
+### Requirements
+
+- The goals MUST be split by `-` (_minus sign_)
 
 ## Contributing
 
