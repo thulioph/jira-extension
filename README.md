@@ -4,9 +4,7 @@
 
 ## Features
 
-> All features will be automatically applied once you have it installed. Just open your board, and see the magic happens. 🪄
-
-1. Beautify spring goals section
+1. Beautify sprint goals section
 
 ## Installation
 
@@ -22,15 +20,18 @@ This project is not available to download in any webstore, so follow these steps
 
 ## Usage
 
-### Beautify spring goals section
+All features will be automatically applied once you have it installed. Just open your board and see the magic happen. 🪄
+
+### Beautify sprint goals section
 
 If your team uses the **sprint goal** section in Jira (_image below_), this extension will beautify it.
 
-<img src="image.png" alt="Jira spring goal section" width="400"/>
+<img src="image.png" alt="Jira sprint goal section" width="400"/>
 
-### Requirements
+#### Requirements
 
-- The goals MUST be split by `-` (_minus sign_)
+- Each goal MUST be split by `-` (_minus sign_)
+  - `- First Goal - Second Goal - Third Goal`
 
 ## Contributing
 
