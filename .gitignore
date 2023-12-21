@@ -1,4 +1,2 @@
 .DS_Store
-*.crx
-*.pem
-*.zip
+/assets
