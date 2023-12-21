@@ -34,7 +34,7 @@ const run = () => {
     boardHEader.classList.add("team-goal");
 
     // [OPTIONAL] - Beautify goals
-    const allItems = boardHEader.innerHTML.split("- ");
+    const allItems = boardHEader.textContent.split("- ");
 
     if (allItems.length) {
       beautifyGoals(allItems, boardHEader);
